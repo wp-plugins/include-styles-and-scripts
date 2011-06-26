@@ -6,13 +6,13 @@ Requires at least: 2.8
 Tested up to: 3.1.3
 Stable tag: trunk
 
-Add your custom js and css by simply dropping your .js and .css files in the plugin directory. Handy for custom css / js additions to out of box themes with zero coding.
+Add your custom js and css by simply dropping your .js and .css files in the plugin directory. Handy for custom css / js additions to any out of box themes with zero coding.
 
 == Description ==
 
 This plugin allows you to add your custom js and css by simply dropping your .js and .css files in the plugin directory `wp-content/plugins/include-styles-and-scripts`. There is zero configuration. You just drop the files in the plugin directory and it automatically includes it basis file extention (.js or .css)
 
-This can be useful for adding your custom css or js file to out of box themes with no coding.
+This can be useful for adding your custom css or js file to any out of box themes with no coding.
 
 Feedback appreciated on the project page - [Include Styles and Scripts](http://webdlabs.com/projects/include-styles-and-scripts/). 
 
