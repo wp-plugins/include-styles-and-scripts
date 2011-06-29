@@ -6,7 +6,7 @@ Requires at least: 2.8
 Tested up to: 3.1.3
 Stable tag: trunk
 
-Add your custom js and css by simply dropping your .js and .css files in the plugin directory. Handy for custom css / js additions to any out of box themes with zero coding.
+Add your custom js and css by simply dropping your .js and .css files in the plugin directory. Handy for custom css / js additions to themes or plugins
 
 == Description ==
 
